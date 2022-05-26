@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+require "bundler/setup"
+Bundler.require(:default)
+
+class Dog
+  attr_accessor :name, :age, :breed, :favorite_treats
+  def initialize(name:, age:, breed:, favorite_treats:)
+    @name = name
+    @age = age
+    @breed = breed
+    @favorite_treats = favorite_treats
+  end
+end
+
+Pry.start

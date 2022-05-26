@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+require "bundler/setup"
+Bundler.require(:default)
+
+class Dog 
+  attr_accessor :name, :age, :breed, :favorite_treats
+  def initialize(attributes = {})
+    attributes.each do |attr, value|
+      self.send("#{attr}=", value)
+    end
+  end
+end
+
+Pry.start
