@@ -1,0 +1,135 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="701px" height="211px" viewBox="-0.5 -0.5 701 211" content="&lt;mxfile&gt;&lt;diagram id=&quot;rqmlTx7UQYWjNsyJo5Ah&quot; name=&quot;Page-1&quot;&gt;7Vjbbts4EP0aA8kCNWTLl/TRspz2IUGDeIG2TwYjjSXCFKlSdGz363d40c2yNwnadNNiAScgD4e3c2aGInv+PNt/kCRPb0UMrDf04n3PD3vD4WQyxf8aOFhgPJ1YIJE0ttCgBpb0OzjQc+iWxlC0DJUQTNG8DUaCc4hUCyNSil3bbC1Ye9acJNABlhFhXfQzjVVq0auxV+MfgSZpOfPAcy0ZKY0dUKQkFrsG5C96/lwKoWwp28+Bae5KXmy/6zOt1cIkcPWcDkPb4ZGwrdtbKBK3NHUo91vsaMYIx1qwFlwtXYuH9SilLL4hB7HV8xWKRJuyFqRC0u9oTxg2DRDAZqmcnL7Xsljqnm5MCQXa3JWbGBxBt2TfMrwhhSpXIxgjeUEfzPp0x4zIhPJAKCUyZ9TlyNH2CFLBvgE5zj6AyEDJA5q41isnn/PfSs5d7Q2DkcPShidMHEacAybVyLVGWHAynZbM70iWkmKVEa7X1/NnO8I2RUdC3JgyCkixgblgQiLOhdWUMnYEEUYTjlUGa91NM0PR/2cOzmgc65GDIicR5cmNMQtHNXLvNq0hgd3XzLh5ih0BRwhyQbkyLIwD/CEvc68/7o1xrXOsD+o6/rS5VHPBcfmEGtUARd+BFj6QQhFFHiqX7Oo7fLa+TlD/mXr6P0HPaUfPbvylJNfFNYP9TOcv3CXw2BXDiJGioJGOJ5WVsQZ7qr7oct/zRq7+VTPUH4ymrh6WgWQqh0blDiTFnYB8KmYKsZURtDwT4lb27JLcYHV8gtQSk8CIoo/tnHuKaTfDnXapOkaroCyD9OpILLt016uZI48G8kdHA41H7YEwqyWgOgOhPOTQMHMuf37B70/PU/uRHbH2qorTZzna1QlHmzBlY5ZjOVFGaTyL/fe2xCxy3TSIYa0FcznngpMMdMwOPZEriiFqslCo/0+D3jS8LId5kI0pziAvWsh/1akRmZNvW31SB7uUKninUx/iMx0pEurWl1BLOaxQ01TEhtlL/ZUkniLsR1b0Szb2pMFaSMwAfLWBQ+U/pT/hAeHPmgZj611z/dNBXi/HR58rgK37JiX2NYN9czTob45puMJQaC7+jXjhq/L+S+bJ8bQg8nBevqbBOfn+F+d15jGxsLJ5+pQ2jfa2NCaSTAzZL4z14TUT0dsg69sWZO3D9QDLxc1i/jdCf+Hf9f2nW2Nzjf8/f1zcL6qa66fLr+rLvz/T5hpeEhYGfdhDtFVw4RTQDlh/W7TOh8o3C/wIvmiklst/+dj4U2jb6FCseKtjtx/p6xHhSh91fzwL2nn6Gcn1N6bJWPomZJLWxp78sLtA6NI0hm/nNHljNGL8/Lbc/OCCzdaP7tlSbHkMsbvzGo6XluJwJ9HZWhfsoyeSn/CqdHzRHJx4hhideoaoHkZf8A6B1fqZ0d4m67daf/EP&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-120-132-30-0">
+            <rect x="4" y="120" width="132" height="30"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 120 L 0 90 L 140 90 L 140 120" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 120 L 0 150 L 140 150 L 140 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 120 L 140 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="69.5" y="109.5">
+                Dog
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-120-132-30-0)" font-size="12px">
+            <text x="5.5" y="139.5">
+                has_many :walks
+            </text>
+        </g>
+        <path d="M 141.09 129.41 L 141.03 119.41 L 209.96 119 Q 209.99 119 210.01 119 L 240.5 119 L 240.5 108.5 L 259.5 124 L 240.5 139.5 L 240.5 129 L 210.01 129 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240.5 119 L 240.5 108.5 L 259.5 124 L 240.5 139.5 L 240.5 129" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="flat" stroke-miterlimit="4" pointer-events="none"/>
+        <rect x="260" y="0" width="440" height="210" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 438px; height: 1px; padding-top: 105px; margin-left: 262px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span>
+                                </span>
+                                def has_many(name, options = {})
+                                <br/>
+                                <br/>
+                                <span>
+                                </span>
+                                <span>
+                                </span>
+                                <span>
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                define_method(name) do
+                                <br/>
+                                <span style="white-space: pre">
+                                    <span style="white-space: pre">
+                                    </span>
+                                </span>
+                                foreign_key = options[:foreign_key] || "#{self.class.name.tableize}_id"
+                                <br/>
+                                <span>
+                                </span>
+                                <span>
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                primary_key = options[:primary_key] || "id"
+                                <br/>
+                                <span>
+                                </span>
+                                <span>
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                class_name = options[:class_name] || self.name.classify
+                                <br/>
+                                <span style="white-space: pre">
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                query = "SELECT * FROM ? WHERE ? = ?"
+                                <br/>
+                                <span>
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                rows = DB.execute(query, name, foreign_key, self.send(primary_key))
+                                <br/>
+                                <span style="white-space: pre">
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                klass = class_name.constantize
+                                <br/>
+                                <span style="white-space: pre">
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                rows.map{ |row| klass.new(row) }
+                                <br/>
+                                <span>
+                                </span>
+                                <span>
+                                </span>
+                                <span>
+                                </span>
+                                <span style="white-space: pre">
+                                </span>
+                                end
+                                <br/>
+                                <span>
+                                </span>
+                                <span>
+                                </span>
+                                <span>
+                                </span>
+                                <br/>
+                                <span>
+                                </span>
+                                end
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="262" y="109" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    def has_many(name, options = {})...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
